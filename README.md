@@ -63,21 +63,13 @@
 <a href = "https://www.linkedin.com/in/anas-oubaha/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 <script>
-function copyURI() {
-    /* Get the text field */
-    var copyText = document.getElementById("myInput");
-    /* Select the text field */
-    copyText.select();
-    copyText.setSelectionRange(0, 99999); /* For mobile devices */
-    /* Copy the text inside the text field */
-    navigator.clipboard.writeText(copyText.value);
-    /* Alert the copied text */
-    alert("Copied the text: " + copyText.value);
+function copyToClipboard(text) {
+  window.prompt("Copy to clipboard: Ctrl+C, Enter", text);
 }
 </script>
 
-<h3>Or Call me at : +212 689-854749</h3>
-<a style="padding-top:15px;" href="+212 689-854749" onclick="copyURI()"><img src="https://img.icons8.com/color/48/000000/apple-phone.png"/></a>
+<h3>Or Call me at : </h3>
+<a id="tele" href="+212 689-854749" onclick="copyToClipboard(document.getElementById('tele').innerHTML)"><img src="https://img.icons8.com/color/48/000000/apple-phone.png"/>+212 689-854749</a>
 
 
 </p>
