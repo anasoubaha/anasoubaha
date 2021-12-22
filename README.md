@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I go to the GYM very often to stay healthy**
 
-## 2. 🚀 Languages and Tools:
+## 2. 🚀 Languages and Tools
 
 <p align="center">
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> 
@@ -54,7 +54,7 @@
 <br/>
 <br/>
 
-## 4. 📫 How to reach me:
+## 4. 📫 How to reach me
 <p align="left">
 
 
