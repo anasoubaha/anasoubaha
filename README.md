@@ -1,5 +1,5 @@
 
-<iframe src="https://giphy.com/embed/doXBzUFJRxpaUbuaqz" width="500" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/motion-graphics-animated-gif-mograph-doXBzUFJRxpaUbuaqz"></a></p>
+<p><a href="https://giphy.com/gifs/motion-graphics-animated-gif-mograph-doXBzUFJRxpaUbuaqz"></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anas</h1>
 <h3 align="center">I'm a Data and computer Science Student, passionate about <b>Data Engineering</b>. Looking for an end-of-studies Internship for 4 to 6 months.</h3>
