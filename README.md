@@ -49,28 +49,17 @@
 <br/>
 <br/>
 
-<a href="https://github.com/anasoubaha/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anasoubaha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/anasoubaha/github-readme-activity-graph"><img alt="Anas Oubaha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anasoubaha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 
 ## 4. 📫 How to reach me
-<p align="left">
-
-
+<p align="center">
 <a href = "mailto:anasoubaha19@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <a href = "mailto:aoubaha@insea.ac.ma"><img src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png"/></a>
 <a href = "https://www.linkedin.com/in/anas-oubaha/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-<script>
-function copyToClipboard(text) {
-  window.prompt("Copy to clipboard: Ctrl+C, Enter", text);
-}
-</script>
-
-<h3>Or Call me at : </h3>
-<a id="tele" href="+212 689-854749" onclick="copyToClipboard(document.getElementById('tele').innerHTML)"><img src="https://img.icons8.com/color/48/000000/apple-phone.png"/>+212 689-854749</a>
-
-
+<label>Or Call me at : </label>
+<img src="https://img.icons8.com/color/48/000000/apple-phone.png" align="center"/>+212 689-854749</img>
 </p>
-
