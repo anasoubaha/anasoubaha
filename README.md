@@ -1,12 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anas</h1>
-<h3 align="center">I'm a Data and computer Science Student, passionate about <b>Data Engineering</b>. Looking for an end-of-studies Internship for 4 to 6 months.</h3>
+<h3 align="center">I'm a PhD. student working on intergrated drought management in Morocco at the International Water Research Institute (IWRI), Mohammed VI Polytechnic University (UM6P), Benguerir, Morocco. I'm currently a visiting scholar at the Center of Geospatial Analysis (CGA), Clark University, Worcester, MA, US, focusing on developping an Early Warning system for meteorological drought in Morocco using seasonal forecasting models ✨. I'm also looking for a post-doc opportunity in hydrology, remote sensing, data science and anything in between.</h3>
 
 
 ## 1. 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Big Data and Machine and Deep Learning**
-
-- 🤔 I’m looking for an end-of-studies Internship in **Data Engineering, Big Data or Business Intelligence**
+- 🌱 I’m curious about learning anything about **AI and agentic coding (NO VIBE CODING HERE LOL)**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/anasoubaha)**
 
