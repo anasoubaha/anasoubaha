@@ -55,5 +55,5 @@
 ## 4. 📫 How to reach me
 <p align="center">
 <a href = "mailto:anasoubaha19@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-<a href = "mailto:aoubaha@insea.ac.ma"><img src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png"/></a>
+<a href = "mailto:anas.oubaha@um6p.ma"><img src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png"/></a>
 <a href = "https://www.linkedin.com/in/anas-oubaha/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
